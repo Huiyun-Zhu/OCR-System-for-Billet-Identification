@@ -2,14 +2,14 @@
 This repository documents a data-driven project that improves **steel billet identification** for **SMS Concast**, strengthening quality control and supporting market expansion. The project covers data collection, annotation, and an OCR-based identification pipeline, and establishes a solid foundation for future **CNN-based** machine learning models.
 
 ## 📁 Project Structure
-
+```
 ├── 3 Data Science Business Assignemnts
 ├── Annotated Data and Labels
 ├──Code
 ├── Data Driven Project Report
 ├── OCR System for billet identification PPT
 └── README.md
-
+```
 ## 🚀 Process Overview
 - Implemented advanced technologies to improve steel billet identification for SMS Concast, enhancing **quality control** and enabling **market expansion**.
 - Built a foundation for **CNN** machine learning models through extensive **data collection and labeling**, using a **Raspberry Pi** to operate a high-resolution camera system.
