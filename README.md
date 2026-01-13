@@ -1,7 +1,7 @@
+# OCR System for Steel Billet Identification (SMS Concast)
+This repository documents a data-driven project that improves **steel billet identification** for **SMS Concast**, strengthening quality control and supporting market expansion. The project covers data collection, annotation, and an OCR-based identification pipeline, and establishes a solid foundation for future **CNN-based** machine learning models.
 
 ## 📁 Project Structure
-```
-
 ├── 3 Data Science Business Assignemnts
 ├── Annotated Data and Labels
 └── Code
@@ -12,17 +12,8 @@
 │ 
 └── README.md
 
-```
----
-
 ## 🚀 Process Overview
+- Implemented advanced technologies to improve steel billet identification for SMS Concast, enhancing **quality control** and enabling **market expansion**.
+- Built a foundation for **CNN** machine learning models through extensive **data collection and labeling**, using a **Raspberry Pi** to operate a high-resolution camera system.
+- Improved identification accuracy from **98%** to **99.93%**, reducing up to **128.86 tons of CO₂ emissions** and delivering an estimated **net cost saving of 400K CHF**.
 
-●Implementing advanced technologies to improve steel billet identification for SMS Concast, enhance quality control, and
-market expansion.
-● Build a foundation for machine learning models CNN through extensive data collection and labelling, using Raspberry Pi to
-operate a high-resolution camera system.
-● Enhance steel billet identification accuracy from 98% to 99.93%, reducing up to 128.86 tons of CO 2 emission, a net cost
-saving of 400K CHF.
-
-
----
